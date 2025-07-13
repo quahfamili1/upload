@@ -1,0 +1,9 @@
+log_level=INFO timestamp=2025-07-11T08:25:12Z user_id=54321 action=login status=success ip_address=192.168.1.101 service_name=auth_service request_id=xyz-987-abc-321 event_type=user_activity data={"key1":"value1","nested":{"key2":123}} metric_name=login_attempts value=1 unit=count message="User logged in successfully"
+2025-07-11 08:25:12,456 [main] DEBUG com.example.Processor - Processing record #12345 raw_payload::START_OF_DATA_PACKET_0xDEADBEEF_some_random_text_and_symbols_@#$%^_and_more_text_END_OF_DATA_PACKET
+transaction_id:9876-5432-1098-7654 amount:99.99 currency:USD product_id:SKU-007-B item_count:3 customer_name:'John Doe'
+server_node:node-5.us-west-2.compute.internal health_check:OK cpu_load:0.65 memory_usage:45.8% disk_io:1200KB/s network_traffic:5.6MB/s
+correlation_id=abc-123-def-456 session_id=SESSID_abcdef1234567890
+123.45.67.89 - - [11/Jul/2025:08:25:13 +0000] "GET /api/v1/data?id=123 HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+{"sensor_reading": {"type": "temperature", "value": 22.5, "unit": "Celsius", "timestamp": 1720686313}}
+user-agent[CustomClient/1.0]
+warning::disk space running low on /var/log - 90%

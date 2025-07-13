@@ -1,0 +1,5 @@
+com/example/openmetadatasidecar/OpenmetadataSidecarApplication.class
+com/example/openmetadatasidecar/TableDefinition.class
+com/example/openmetadatasidecar/OpenMetadataService.class
+com/example/openmetadatasidecar/FileUploadController.class
+com/example/openmetadatasidecar/FileAnalysisUtils.class
