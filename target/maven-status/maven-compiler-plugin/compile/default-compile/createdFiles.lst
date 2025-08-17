@@ -1,5 +1,10 @@
-com/example/openmetadatasidecar/OpenmetadataSidecarApplication.class
-com/example/openmetadatasidecar/TableDefinition.class
-com/example/openmetadatasidecar/OpenMetadataService.class
-com/example/openmetadatasidecar/FileUploadController.class
-com/example/openmetadatasidecar/FileAnalysisUtils.class
+com/ometa/uploader/service/FileUploadService.class
+com/ometa/uploader/dto/FileUploadRequest.class
+com/ometa/uploader/service/OpenMetadataService.class
+com/ometa/uploader/strategy/FileAnalysisStrategy.class
+com/ometa/uploader/UploaderApplication.class
+com/ometa/uploader/strategy/LogFileAnalysisStrategy.class
+com/ometa/uploader/controller/FileUploadController.class
+com/ometa/uploader/exception/ApiException.class
+com/ometa/uploader/strategy/DelimitedFileAnalysisStrategy.class
+com/ometa/uploader/exception/GlobalExceptionHandler.class
