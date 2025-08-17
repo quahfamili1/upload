@@ -1,13 +1,13 @@
-package com.example.openmetadatasidecar;
+package com.ometa.uploader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OpenmetadataSidecarApplication {
+public class UploaderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OpenmetadataSidecarApplication.class, args);
+        SpringApplication.run(UploaderApplication.class, args);
     }
 
 }

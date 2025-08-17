@@ -1,0 +1,7 @@
+"name", "age", "city"
+"John Doe", 30, "New York"
+
+"Jane Smith", , "London"
+"Peter Jones", 45, "Paris"
+"This is a bad line"
+"Another,Person", 25, "Berlin"

@@ -8,11 +8,11 @@
         <version>2.7.12</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>openmetadata-sidecar</artifactId>
+    <groupId>com.ometa</groupId>
+    <artifactId>uploader</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>openmetadata-sidecar</name>
-    <description>Sidecar for OpenMetadata</description>
+    <name>uploader</name>
+    <description>File Uploader Service</description>
     <properties>
         <java.version>11</java.version>
     </properties>

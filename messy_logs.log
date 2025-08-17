@@ -1,0 +1,6 @@
+INFO: user_id=123 action=login status=success
+ERROR: user_id=456 action=checkout error="payment failed"
+DEBUG: some debug message without key-value pairs
+INFO: user_id=789 action=view_product product_id=p987
+WARN: disk space is running low
+INFO: user_id=123 action=logout status=success
