@@ -1,5 +1,8 @@
-/home/quahfamili/upload/src/main/java/com/example/openmetadatasidecar/FileAnalysisUtils.java
-/home/quahfamili/upload/src/main/java/com/example/openmetadatasidecar/OpenmetadataSidecarApplication.java
-/home/quahfamili/upload/src/main/java/com/example/openmetadatasidecar/OpenMetadataService.java
-/home/quahfamili/upload/src/main/java/com/example/openmetadatasidecar/FileUploadController.java
-/home/quahfamili/upload/src/main/java/com/example/openmetadatasidecar/TableDefinition.java
+/app/src/main/java/com/example/openmetadatasidecar/OpenmetadataSidecarApplication.java
+/app/src/main/java/com/example/openmetadatasidecar/OpenMetadataService.java
+/app/src/main/java/com/example/openmetadatasidecar/ExternalApiUserRequest.java
+/app/src/main/java/com/example/openmetadatasidecar/ExternalApiUserResponse.java
+/app/src/main/java/com/example/openmetadatasidecar/FileAnalysisUtils.java
+/app/src/main/java/com/example/openmetadatasidecar/FileUploadController.java
+/app/src/main/java/com/example/openmetadatasidecar/UserDetail.java
+/app/src/main/java/com/example/openmetadatasidecar/TableDefinition.java

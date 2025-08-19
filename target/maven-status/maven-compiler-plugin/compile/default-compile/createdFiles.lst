@@ -1,5 +1,8 @@
+com/example/openmetadatasidecar/ExternalApiUserResponse.class
 com/example/openmetadatasidecar/OpenmetadataSidecarApplication.class
 com/example/openmetadatasidecar/TableDefinition.class
-com/example/openmetadatasidecar/OpenMetadataService.class
-com/example/openmetadatasidecar/FileUploadController.class
 com/example/openmetadatasidecar/FileAnalysisUtils.class
+com/example/openmetadatasidecar/FileUploadController.class
+com/example/openmetadatasidecar/ExternalApiUserRequest.class
+com/example/openmetadatasidecar/UserDetail.class
+com/example/openmetadatasidecar/OpenMetadataService.class

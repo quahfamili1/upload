@@ -88,4 +88,15 @@ public class FileUploadController {
                 })
                 .collect(Collectors.toList());
     }
+
+    @PostMapping("/user-sync")
+    public ResponseEntity<String> syncUsers(@RequestHeader("Authorization") String authorization) {
+        try {
+            openMetadataService.syncUsers(authorization);
+            return ResponseEntity.ok("User synchronization process started.");
+        } catch (Exception e) {
+            e.printStackTrace();
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to start user synchronization: " + e.getMessage());
+        }
+    }
 }
